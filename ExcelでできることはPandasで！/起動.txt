@@ -1,0 +1,6 @@
+conda activate FastAPI
+jupyter lab
+
+
+
+C:\Users\taten\.conda\envs\FastAPI\python.exe
